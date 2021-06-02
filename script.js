@@ -63,3 +63,18 @@ console.log(typeof(pi));
 
 //Nan
 console.log(Number('aaa'));
+
+
+
+
+//Logical Operator
+
+if (true && true){
+    console.log('hehe');
+}
+if(!false){
+    console.log('whaa');
+}
+if(true || false){
+    console.log('whee');
+}
